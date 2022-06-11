@@ -21,6 +21,10 @@ def print_board_numeration(board):
         print()
 
 
+def neshto():
+    return True
+
+
 def get_position_mapping(board):
     result = {}
     idx = 1
